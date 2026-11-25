@@ -1,8 +1,8 @@
 # THE WORLD — 25 November 2026
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/news-image-20261125)
-[![make.fun bounty](https://make.fun/badge/bounty.svg)](https://make.fun/bounty/news-image-20261125)
-[![Built with make.fun](https://make.fun/badge/built-with.svg)](https://make.fun)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/hokireceh/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/hokireceh/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 A one-image newspaper front page summing up 25 November 2026 in seven
 stories: the war in Ukraine leads — 700,000 Russian troops killed — with
